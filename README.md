@@ -11,5 +11,5 @@ How to run:
 
 
 PreCAUTION: 
-
+its for windows only
 USE YOUR OWN APP PASSWORD AND EMAIL IN send_email.py file
