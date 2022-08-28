@@ -10,6 +10,8 @@ How to run:
 4.then it will run in background from next restart
 
 
-PreCAUTION: 
-its for windows only
-USE YOUR OWN APP PASSWORD AND EMAIL IN send_email.py file
+PRECAUTION: 
+
+its for windows only!!
+
+USE YOUR OWN APP PASSWORD AND EMAIL IN send_email.py file!!!
