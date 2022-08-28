@@ -36,7 +36,13 @@ def on_click(x, y, button, pressed):
     # print(list_str)
 
     # print ("Mouse clicked")
-while True:
-    with Listener( on_click=on_click) as listener:
-        listener.join()
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+def main():
+    while True:
+        with Listener(on_click=on_click) as listener:
+            listener.join()
+
+if __name__ == "__main__":
+    main()
